@@ -1,5 +1,5 @@
 # ShittyESP
-Shitty external ESP made for CS2
+Shitty external ESP made for CS2 in Python
 
 > [!WARNING]
 > **FOR EDUCATIONAL PURPOSES ONLY**  
